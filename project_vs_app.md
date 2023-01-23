@@ -1,4 +1,4 @@
-# Django Project vs App
+# Django Project vs App - ChatGPT
 
 ## What's the difference between a project and an app in django?
 
